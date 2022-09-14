@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    color: #444;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    width: 100%;
+    font-family: "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+}
+img{
+    margin: 40px 0 0;
+    padding: 0;
+    height: 300px;
+    width: 300px;
+}
+#error page{
+    color: rgba(0,0,0,0.75);
+    font-size: 21px;
+    font-weight: lighter;
+    line-height: 38px;
+    text-align: center;
+}
+#error box{
+    margin: 48px 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+}
+#error-links {
+    margin-top: 48px;
+    font-size: 14px;
+    font-weight: 600;
+    }
+
+    #error-links a {
+    display: block;
+    margin: 10px auto;
+    text-decoration: none;
+    color: #005ff8;
+    margin: 0.9rem;
+    font-weight: 600;
+    font-size: 14px;
+    }
